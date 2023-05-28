@@ -5,8 +5,8 @@ const tweets = [
 		id: 't0',
 		user: {
 			id: 'u1',
-			username: 'dangwe_01',
-			name: 'Brian Musarafu',
+			username: 'Brian Musarafu',
+			name: 'dangwe_01',
 			image:
 				'https://pbs.twimg.com/profile_images/1656610878475706376/QHJAlOJh_400x400.jpg',
 		},
@@ -24,8 +24,8 @@ const tweets = [
 		createdAt: '2023-04-28T08:30:00.000Z',
 		user: {
 			id: '123456789',
-			name: 'Jeff B',
-			username: 'bezos',
+			name: 'Desire',
+			username: 'daddy_dee',
 			image:
 				'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/jeff.jpeg',
 		},
@@ -41,8 +41,8 @@ const tweets = [
 		createdAt: '2023-04-27T19:45:00.000Z',
 		user: {
 			id: '987654321',
-			name: 'Zuck',
-			username: 'zuck',
+			name: 'Blessing Chusaru',
+			username: 'buleee',
 			image:
 				'https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/zuck.jpeg',
 		},
