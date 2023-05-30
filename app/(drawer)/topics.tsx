@@ -3,12 +3,12 @@
 import { View, Text } from 'react-native';
 import React from 'react';
 
-const index = () => {
+const Topics = () => {
 	return (
 		<View>
-			<Text>index</Text>
+			<Text>topics</Text>
 		</View>
 	);
 };
 
-export default index;
+export default Topics;
